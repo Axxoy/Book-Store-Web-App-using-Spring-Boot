@@ -22,7 +22,7 @@ This website requires MySQL to function properly. Ensure you have MySQL installe
 
 
 
-### Built using: Java, Spring Web, Thymeleaf, Spring Data JPA (Java Persistence API), MySQL Database, DevTools, Maven.
+### Built using: Java, Spring Web, Thymeleaf, Spring Data JPA (Java Persistence API), MySQL Database, BootStrap 5, DevTools, Maven.
 
 ## Build 💻
 
