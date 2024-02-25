@@ -4,3 +4,10 @@
 
 ### Built using: Java, Spring Web, Thymeleaf, Spring Data JPA (Java Persistence API), MySQL Database, DevTools, Maven.
 
+
+![Image1](screenshots/new-book-page.png)
+
+![Image1](screenshots/available-books-page.png)
+
+![Image1](screenshots/edit-books-page.png)
+
