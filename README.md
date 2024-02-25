@@ -26,7 +26,7 @@ This website requires MySQL to function properly. Ensure you have MySQL installe
 
 ## Build 💻
 
-Navigate to `Java/bookStore/bookStore` then run: 
+Navigate to `./bookStore/` then run: 
 
     java -jar target/bookStore-0.0.1-SNAPSHOT.jar
 
