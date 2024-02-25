@@ -2,6 +2,5 @@
 
 # 📚 Book Store Web App 
 
-## Built using: Java, Spring Boot, MySQL, Thymeleaf, JPA (Java Persistence API), Maven. 
-
+### Built using: Java, Spring Web, Thymeleaf, Spring Data JPA (Java Persistence API), MySQL Database, DevTools, Maven.
 
