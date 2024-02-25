@@ -20,7 +20,7 @@ Here's what you can do on our website:
 
 This website requires MySQL to function properly. Ensure you have MySQL installed and configured, alongside with Maven and Java. 
 
-## Youtube demo showcasing this project: ![https://youtu.be/1CmqutIDx_0]
+## Youtube demo showcasing this project: !https://youtu.be/1CmqutIDx_0
 
 ### Built using: Java, Spring Web, Thymeleaf, Spring Data JPA (Java Persistence API), MySQL Database, BootStrap 5, DevTools, Maven.
 
