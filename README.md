@@ -32,7 +32,7 @@ Navigate to `./bookStore/` then run:
 
 <br>
     
->NOTE: After setting up MySQL, make sure to tweak settings in the `bookStore/bookStore/src/main/resources/application.properties` file such as port number, MySQL host name and password and other settings as necessary to ensure the application can connect to your local MySQL server. By default they are configured to connect to `root` with the password: `root`.
+>NOTE: After setting up MySQL, make sure to tweak settings in the `./bookStore/src/main/resources/application.properties` file such as the port number, MySQL host name, password and other settings as necessary to ensure the application can connect to your local MySQL server. By default they are configured to connect to `root` with the password: `root`.
 
 Then navigate to `http://localhost:{specified port number in application.properties}/` and the website should be displayed!
 
